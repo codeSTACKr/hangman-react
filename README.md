@@ -6,7 +6,7 @@
 
 
 ## Demo
-<img src="./src/hangman-demo.gif" />
+<img src="./src/assets/hangman-demo.gif" />
 
 
 
